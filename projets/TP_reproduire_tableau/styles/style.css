@@ -1,0 +1,20 @@
+table{
+    border-collapse: collapse;
+}
+table tr:nth-child(odd){
+    background-color:yellowgreen;
+}
+
+table tr:nth-child(even){
+    background-color:whitesmoke;
+}
+
+th{
+    background-color: yellowgreen;
+    color: whitesmoke;
+}
+
+
+th, td{
+    border: 2px solid yellowgreen;
+  }
