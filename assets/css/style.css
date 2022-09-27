@@ -309,6 +309,8 @@ h6 {
   font-weight: 700;
   line-height: 56px;
   color: #fff;
+  background-color: yellowgreen;
+  display: inline-block;
 }
 
 #hero p {
@@ -316,6 +318,8 @@ h6 {
   margin-bottom: 50px;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
+  background-color: yellowgreen;
+
 }
 
 #hero p span {
